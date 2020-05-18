@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  trainer: MyString
+  duration: 1
+  dateofworkout: 2019-05-18 11:08:48
+  paidamount: 9.99
+
+two:
+  trainer: MyString
+  duration: 1
+  dateofworkout: 2019-05-18 11:08:48
+  paidamount: 9.99
